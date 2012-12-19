@@ -1,0 +1,6 @@
+<widget>
+  <widgetClass>tooltwist.training_noreen.widgets.HelloNoreenWidget</widgetClass>
+  <idWithinRootWidget>0</idWithinRootWidget>
+  <label>helloNoreen</label>
+  <description>Hello World Noreen</description>
+</widget>
